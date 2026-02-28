@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# IntelliJ-specific configs
+workspace.xml
+shelf/
+dataSources/
+dataSources.local.xml
+httpRequests/
+queries/
